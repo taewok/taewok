@@ -7,21 +7,20 @@
 
 
 
-  <div display: "flex">
+
 
     <p>Language</p>
 
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewok&layout=compact)](https://github.com/taewok/github-readme-stats)
 
-  </div>
 
-  <div>
+
 
     <p>Activity</p>
 
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewok&show_icons=true&theme=radical)
 
-  </div>
+
 
 
   
