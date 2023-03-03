@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<div>
+<div align="top">
 
 <p>Language</p>
 
@@ -15,7 +15,7 @@
 
 </div>
 
-<div>
+<div align="top">
 
 <p>Activity</p>
 
