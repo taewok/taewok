@@ -5,21 +5,21 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></img>
 
-<div align="center">
+<div style="float: left">
 
-<div align="top">
+<div>
 
 <p>Language</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewok&layout=compact)](https://github.com/taewok/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taewok&layout=compact)](https://github.com/taewok/github-readme-stats"/>
 
 </div>
 
-<div align="top">
+<div>
 
 <p>Activity</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewok&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=taewok&show_icons=true&theme=radical"/>
 
 </div>
 
