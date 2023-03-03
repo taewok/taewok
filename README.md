@@ -6,7 +6,9 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 
 <div align:center>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewok&layout=compact)](https://github.com/taewok/github-readme-stats)
+  
 </div>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewok&show_icons=true&theme=radical)
