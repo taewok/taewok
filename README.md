@@ -5,11 +5,11 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></img>
 
-<div style="float: left">
+<div>
 
 <div>
 
-<p>Language</p>
+<p width="150px">Language</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taewok&layout=compact)](https://github.com/taewok/github-readme-stats"/>
 
