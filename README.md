@@ -7,7 +7,7 @@
 
 
 
-  <div>
+  <div display: "flex">
 
     <p>Language</p>
 
