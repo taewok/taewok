@@ -3,9 +3,10 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 
-<div style={"display:flex"}>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewok&langs_count=8)](https://github.com/taewok/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewok&langs_count=8)](https://github.com/taewok/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewok&show_icons=true&theme=radical)
