@@ -5,25 +5,25 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></img>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></img>
 
-  <div display="flex">
+<div display="flex">
 
-    <div>
+  <div>
 
-      <p>Language</p>
+    <p>Language</p>
 
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewok&layout=compact)](https://github.com/taewok/github-readme-stats)
-
-    </div>
-
-    <div>
-
-      <p>Activity</p>
-
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewok&show_icons=true&theme=radical)
-
-    </div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewok&layout=compact)](https://github.com/taewok/github-readme-stats)
 
   </div>
+
+  <div>
+
+    <p>Activity</p>
+
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewok&show_icons=true&theme=radical)
+
+  </div>
+
+</div>
   
 </div>
   
