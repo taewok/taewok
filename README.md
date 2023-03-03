@@ -1,6 +1,8 @@
 ### Hi there 👋
-<img href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-61DAFB?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-61DAFB?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-61DAFB?style=for-the-badge&logo=HTML5&logoColor=white">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewok&show_icons=true&theme=radical)
 
 <!--
