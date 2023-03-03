@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 </div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewok&layout=compact)](https://github.com/taewok/github-readme-stats)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewok&show_icons=true&theme=radical)
   
