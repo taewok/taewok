@@ -1,11 +1,11 @@
 <div align="center">
 
-<p>:lips:<b>Introduce</b></p>
+<h1>:lips:<b>Introduce</b></h1>
   <p>안녕하세요. React,JavaScript,TypeScript,Html5,Css3를 학습하고 있는 김태욱입니다~!</p>
   <br/>
 
 
-<p>:clipboard:<b>Language & Skill</b></p>
+<h1>:clipboard:<b>Language & Skill</b></h1>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"></img>
@@ -16,7 +16,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taewok&layout=compact"/>
 
-<p>:running:<b>Activity</b></p>
+<h1>:running:<b>Activity</b></h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=taewok&show_icons=true&theme=radical"/>
   
