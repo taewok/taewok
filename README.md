@@ -1,5 +1,10 @@
 <div align="center">
 
+<p>:lips:<b>Introduce</b></p>
+  <p>안녕하세요. React,JavaScript,TypeScript,Html5,Css3를 학습하고 있는 김태욱입니다~!</p>
+  <br/>
+
+
 <p>:clipboard:<b>Language & Skill</b></p>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></img>
