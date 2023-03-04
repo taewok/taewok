@@ -21,8 +21,13 @@
 
 <h1>:running:<b>Activity</b></h1>
 
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=taewok&show_icons=true&theme=radical"/>
   
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taewok516"/>
+  
+</p>
+
 </div>
   
 
