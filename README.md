@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>:lips:<b>Introduce</b></h1>
-  <p>안녕하세요~<br/> React,JavaScript,TypeScript,Html5,Css3 기반에<br/> 지식과 경험으로 코드를 쓰며 성장하고 있는 <br/>김태욱입니다~!</p>
+  <p>안녕하세요~<br/> React,JavaScript,TypeScript,Html5,Css3 기반에<br/> 코드를 쓰며 성장하고 있는 <br/>김태욱입니다~!</p>
   <br/>
 
 
